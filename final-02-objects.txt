@@ -1,0 +1,29 @@
+(Required) Two kinds of objects created for this assignment:
+1. Trees
+2. House
+
+(Required) Five other kinds of objects that you created (possibly in previous assignments):
+3. Drone
+4. Snowplow
+5. Snowman
+6. Bushes
+7. bear (loaded)
+
+(Optional) Backup Objects (more objects that you created, in case the ones above don't count):
+- Gravel Road
+- Snow on ground
+- Shader red wall
+
+At least on of each type of object:
+Building/structure: House, Gravel Road
+Vehicle: Forklift, Drone
+Natural Element: Tree, Snow, Snowman, Bear
+
+Object loaded from a model file:
+Model: Bear
+
+An object with a shader that you wrote:
+ShaderObj: Red Wall 
+
+Other Objects that you would like to note:
+- guard dog 

@@ -1,0 +1,15 @@
+Three different behaviors that you made:
+1. Trees moving in the wind, spinning for fun
+2. quadcopter moving up and down
+3. forklift going down and right on the gravel road 
+
+One behavior that is not simple:
+Not simple: forklift going down and right on the gravel road 
+
+Animated Articulated Figure:
+Articulated: quadcopter with quadcopter blades with different behavior than rest of body
+
+Other Behaviors that you made: (backup in case something above doesn't count)
+- snowman spinning in place
+- bushes moving up and down from wind
+

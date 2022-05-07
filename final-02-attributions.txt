@@ -1,0 +1,2 @@
+List all attributions here, this include "self-attributions":
+Attribution for shader, got help from youtube tutorial https://www.youtube.com/watch?v=C8Cuwq1eqDw&t=481s 
